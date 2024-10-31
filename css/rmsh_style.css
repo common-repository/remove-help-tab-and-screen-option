@@ -1,0 +1,33 @@
+.r_s_h_check{
+	background-color: #ffffff;
+	float: left;
+	height: 26px;
+	margin-left: 26px;
+	padding-bottom: 9px;
+	padding-right: 22px;
+	padding-left: 9px;
+	padding-top: 16px;
+	text-align: center;
+		
+	
+}
+
+.r_s_h_tabs .all{
+	width: 156px
+}
+
+.r_s_h_submit {
+   padding-top: 82px;
+	margin-left: 24px;
+	
+}
+.r_s_h_submit .r_s_h__sub{
+	font-family: "Open Sans",sans-serif;
+	background: #0073aa;
+	color: #ffffff;
+	font-size: 15px;
+	font-weight: 600;
+	padding: 9px;
+	text-transform: uppercase;
+	cursor:pointer;
+}
